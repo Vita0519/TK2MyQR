@@ -1,2 +1,2 @@
-# DP2MyQR
-drissonpage+html+pyside6用于生成二维码的小工具
+# TK2MyQR 
+drissonpage+html+TK用于生成二维码的小工具
